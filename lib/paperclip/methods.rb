@@ -1,4 +1,4 @@
-require 'ftools'
+require 'fileutils'
 
 module ScribdFu
   module Paperclip
@@ -229,3 +229,4 @@ module ScribdFu
     end
   end
 end
+

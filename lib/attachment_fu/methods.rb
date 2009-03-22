@@ -1,4 +1,4 @@
-require 'ftools'
+require 'fileutils'
 
 module ScribdFu
   module AttachmentFu
@@ -161,3 +161,4 @@ module ScribdFu
     end
   end
 end
+
