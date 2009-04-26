@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "scribd_fu"
-  s.version  = "1.2.3.2"
-  s.date     = "2009-03-18"
+  s.version  = "1.2.3.3"
+  s.date     = "2009-04-26"
   s.summary  = "Quick and easy interactions with Scribd's iPaper service"
   s.email    = "matt@matt-darby.com"
   s.homepage = "http://github.com/mdarby/scribd_fu/tree/master"
@@ -16,3 +16,4 @@ Gem::Specification.new do |s|
                 'generators/scribd_config/templates/scribd.yml']
   s.add_dependency 'rscribd'
 end
+
